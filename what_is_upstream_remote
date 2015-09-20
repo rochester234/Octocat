@@ -1,0 +1,1 @@
+the default remote for a cloned repository goes to the origin on your fork on github - not the orginal repository that has been cloned. Remote upstream is added to keep track of the original repository
